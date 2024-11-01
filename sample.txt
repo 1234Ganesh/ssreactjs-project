@@ -1,1 +1,2 @@
 sample text
+sample test 2
